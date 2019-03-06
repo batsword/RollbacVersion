@@ -1,0 +1,425 @@
+2019-01-16 09:58:23	Info	: _backTimer_Elapsed LeftTime：131
+2019-01-16 09:58:24	Info	: _backTimer_Elapsed LeftTime：130
+2019-01-16 09:58:25	Info	: _backTimer_Elapsed LeftTime：129
+2019-01-16 09:58:26	Info	: _backTimer_Elapsed LeftTime：128
+2019-01-16 09:58:27	Info	: _backTimer_Elapsed LeftTime：127
+2019-01-16 09:58:28	Info	: _backTimer_Elapsed LeftTime：126
+2019-01-16 09:58:29	Info	: _backTimer_Elapsed LeftTime：125
+2019-01-16 09:58:30	Info	: _backTimer_Elapsed LeftTime：124
+2019-01-16 09:58:31	Info	: _backTimer_Elapsed LeftTime：123
+2019-01-16 09:58:32	Info	: _backTimer_Elapsed LeftTime：122
+2019-01-16 09:58:45	Debug	: 关闭动作成功
+2019-01-16 09:58:45	Error	: SlmGetLastError SlmInitEasy后加密狗读取返回信息1 :0
+2019-01-16 09:58:45	Error	: SlmGetLastError加密狗读取返回信息2 :0
+2019-01-16 09:58:45	Debug	: open com port success!
+2019-01-16 09:58:45	Info	: IndexViewModel - Load
+2019-01-16 09:58:48	Debug	: K5 is Press _2
+2019-01-16 09:58:48	Debug	: delegte is cancel _2
+2019-01-16 09:58:48	Debug	: IsCanChose == True || Free == 1
+2019-01-16 09:58:48	Debug	: SelectMap:穆塔宁-芬兰
+2019-01-16 09:58:48	Debug	: ======================== _raceDetailViewModel == null id:1========================
+2019-01-16 09:58:49	Debug	: K5 is Press _1 KeyType.Enter
+2019-01-16 09:58:49	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 09:58:49	Debug	: the play button is clicked
+2019-01-16 09:58:49	Debug	: CurrentMap:穆塔宁-芬兰 LocalId:1
+2019-01-16 09:58:49	Debug	: show loading view
+2019-01-16 09:58:49	Debug	: RaceDetailViewModel - PlayExcute LeftTime:210
+2019-01-16 09:58:49	Debug	: the type is not preload
+2019-01-16 09:58:49	Debug	: 游戏启动 EnterDirtMap id:1--isReLoad:0--IsGameStop:False
+2019-01-16 09:58:49	Debug	: 已挂载LoadComHanding
+2019-01-16 09:58:50	Info	: _backTimer_Elapsed LeftTime：210
+2019-01-16 09:58:51	Info	: _backTimer_Elapsed LeftTime：209
+2019-01-16 09:58:52	Info	: _backTimer_Elapsed LeftTime：208
+2019-01-16 09:58:53	Info	: _backTimer_Elapsed LeftTime：207
+2019-01-16 09:58:54	Info	: _backTimer_Elapsed LeftTime：206
+2019-01-16 09:58:55	Info	: _backTimer_Elapsed LeftTime：205
+2019-01-16 09:58:56	Info	: _backTimer_Elapsed LeftTime：204
+2019-01-16 09:58:57	Info	: _backTimer_Elapsed LeftTime：203
+2019-01-16 09:58:58	Info	: _backTimer_Elapsed LeftTime：202
+2019-01-16 09:58:59	Info	: _backTimer_Elapsed LeftTime：201
+2019-01-16 09:59:00	Info	: _backTimer_Elapsed LeftTime：200
+2019-01-16 09:59:01	Info	: _backTimer_Elapsed LeftTime：199
+2019-01-16 09:59:02	Info	: _backTimer_Elapsed LeftTime：198
+2019-01-16 09:59:03	Info	: _backTimer_Elapsed LeftTime：197
+2019-01-16 09:59:04	Info	: _backTimer_Elapsed LeftTime：196
+2019-01-16 09:59:05	Info	: _backTimer_Elapsed LeftTime：195
+2019-01-16 09:59:06	Info	: _backTimer_Elapsed LeftTime：194
+2019-01-16 09:59:07	Info	: _backTimer_Elapsed LeftTime：193
+2019-01-16 09:59:08	Info	: _backTimer_Elapsed LeftTime：192
+2019-01-16 09:59:09	Info	: _backTimer_Elapsed LeftTime：191
+2019-01-16 09:59:10	Info	: _backTimer_Elapsed LeftTime：190
+2019-01-16 09:59:11	Info	: _backTimer_Elapsed LeftTime：189
+2019-01-16 09:59:12	Info	: _backTimer_Elapsed LeftTime：188
+2019-01-16 09:59:13	Info	: _backTimer_Elapsed LeftTime：187
+2019-01-16 09:59:14	Info	: _backTimer_Elapsed LeftTime：186
+2019-01-16 09:59:15	Info	: _backTimer_Elapsed LeftTime：185
+2019-01-16 09:59:16	Info	: _backTimer_Elapsed LeftTime：184
+2019-01-16 09:59:17	Info	: _backTimer_Elapsed LeftTime：183
+2019-01-16 09:59:18	Info	: _backTimer_Elapsed LeftTime：182
+2019-01-16 09:59:19	Info	: _backTimer_Elapsed LeftTime：181
+2019-01-16 09:59:20	Info	: _backTimer_Elapsed LeftTime：180
+2019-01-16 09:59:21	Info	: _backTimer_Elapsed LeftTime：179
+2019-01-16 09:59:22	Info	: _backTimer_Elapsed LeftTime：178
+2019-01-16 09:59:23	Info	: _backTimer_Elapsed LeftTime：177
+2019-01-16 09:59:24	Info	: _backTimer_Elapsed LeftTime：176
+2019-01-16 09:59:25	Info	: _backTimer_Elapsed LeftTime：175
+2019-01-16 09:59:26	Info	: _backTimer_Elapsed LeftTime：174
+2019-01-16 09:59:27	Info	: _backTimer_Elapsed LeftTime：173
+2019-01-16 09:59:28	Info	: _backTimer_Elapsed LeftTime：172
+2019-01-16 09:59:29	Info	: _backTimer_Elapsed LeftTime：171
+2019-01-16 09:59:30	Info	: _backTimer_Elapsed LeftTime：170
+2019-01-16 09:59:31	Info	: _backTimer_Elapsed LeftTime：169
+2019-01-16 09:59:32	Info	: _backTimer_Elapsed LeftTime：168
+2019-01-16 09:59:33	Info	: _backTimer_Elapsed LeftTime：167
+2019-01-16 09:59:34	Info	: _backTimer_Elapsed LeftTime：166
+2019-01-16 09:59:35	Info	: _backTimer_Elapsed LeftTime：165
+2019-01-16 09:59:36	Info	: _backTimer_Elapsed LeftTime：164
+2019-01-16 09:59:37	Info	: _backTimer_Elapsed LeftTime：163
+2019-01-16 09:59:38	Info	: _backTimer_Elapsed LeftTime：162
+2019-01-16 09:59:39	Info	: _backTimer_Elapsed LeftTime：161
+2019-01-16 09:59:40	Info	: _backTimer_Elapsed LeftTime：160
+2019-01-16 09:59:41	Info	: _backTimer_Elapsed LeftTime：159
+2019-01-16 09:59:42	Info	: _backTimer_Elapsed LeftTime：158
+2019-01-16 09:59:43	Info	: _backTimer_Elapsed LeftTime：157
+2019-01-16 09:59:44	Info	: _backTimer_Elapsed LeftTime：156
+2019-01-16 09:59:45	Info	: _backTimer_Elapsed LeftTime：155
+2019-01-16 09:59:46	Info	: _backTimer_Elapsed LeftTime：154
+2019-01-16 09:59:47	Info	: _backTimer_Elapsed LeftTime：153
+2019-01-16 09:59:48	Info	: _backTimer_Elapsed LeftTime：152
+2019-01-16 09:59:49	Info	: _backTimer_Elapsed LeftTime：151
+2019-01-16 09:59:50	Info	: _backTimer_Elapsed LeftTime：150
+2019-01-16 09:59:51	Info	: _backTimer_Elapsed LeftTime：149
+2019-01-16 09:59:52	Info	: _backTimer_Elapsed LeftTime：148
+2019-01-16 09:59:53	Info	: _backTimer_Elapsed LeftTime：147
+2019-01-16 09:59:54	Info	: _backTimer_Elapsed LeftTime：146
+2019-01-16 09:59:55	Info	: _backTimer_Elapsed LeftTime：145
+2019-01-16 09:59:56	Info	: _backTimer_Elapsed LeftTime：144
+2019-01-16 09:59:57	Info	: _backTimer_Elapsed LeftTime：143
+2019-01-16 09:59:58	Info	: _backTimer_Elapsed LeftTime：142
+2019-01-16 09:59:59	Info	: _backTimer_Elapsed LeftTime：141
+2019-01-16 10:00:00	Info	: _backTimer_Elapsed LeftTime：140
+2019-01-16 10:00:01	Info	: _backTimer_Elapsed LeftTime：139
+2019-01-16 10:00:02	Info	: _backTimer_Elapsed LeftTime：138
+2019-01-16 10:00:03	Info	: _backTimer_Elapsed LeftTime：137
+2019-01-16 10:00:04	Debug	: pre load game complete
+2019-01-16 10:00:04	Info	: _backTimer_Elapsed LeftTime：136
+2019-01-16 10:00:05	Info	: _backTimer_Elapsed LeftTime：135
+2019-01-16 10:00:06	Info	: _backTimer_Elapsed LeftTime：134
+2019-01-16 10:00:07	Info	: _backTimer_Elapsed LeftTime：133
+2019-01-16 10:00:08	Info	: _backTimer_Elapsed LeftTime：132
+2019-01-16 10:00:09	Info	: _backTimer_Elapsed LeftTime：131
+2019-01-16 10:00:10	Debug	: map load complete id:1
+2019-01-16 10:00:10	Debug	: 已调用OpenMoveMent
+2019-01-16 10:00:10	Debug	: 打开动作成功
+2019-01-16 10:00:10	Debug	: MiniModelViewModel LeftTime:130
+2019-01-16 10:00:10	Debug	: enter mini model id:1
+2019-01-16 10:00:10	Debug	: MiniModelViewModel Load1
+2019-01-16 10:00:10	Debug	: MiniModelViewModel Load3
+2019-01-16 10:00:10	Debug	: MiniModelViewModel Load2
+2019-01-16 10:00:10	Info	: _backTimer_Elapsed LeftTime：130
+2019-01-16 10:00:11	Info	: _backTimer_Elapsed LeftTime：129
+2019-01-16 10:00:12	Info	: _backTimer_Elapsed LeftTime：128
+2019-01-16 10:00:14	Info	: _backTimer_Elapsed LeftTime：127
+2019-01-16 10:00:15	Info	: _backTimer_Elapsed LeftTime：126
+2019-01-16 10:00:16	Info	: _backTimer_Elapsed LeftTime：125
+2019-01-16 10:00:17	Info	: _backTimer_Elapsed LeftTime：124
+2019-01-16 10:00:18	Info	: _backTimer_Elapsed LeftTime：123
+2019-01-16 10:00:19	Info	: _backTimer_Elapsed LeftTime：122
+2019-01-16 10:00:20	Info	: _backTimer_Elapsed LeftTime：121
+2019-01-16 10:00:21	Info	: _backTimer_Elapsed LeftTime：120
+2019-01-16 10:00:22	Info	: _backTimer_Elapsed LeftTime：119
+2019-01-16 10:00:23	Info	: _backTimer_Elapsed LeftTime：118
+2019-01-16 10:00:24	Info	: _backTimer_Elapsed LeftTime：117
+2019-01-16 10:00:25	Info	: _backTimer_Elapsed LeftTime：116
+2019-01-16 10:00:26	Info	: _backTimer_Elapsed LeftTime：115
+2019-01-16 10:00:27	Info	: _backTimer_Elapsed LeftTime：114
+2019-01-16 10:00:28	Info	: _backTimer_Elapsed LeftTime：113
+2019-01-16 10:00:29	Info	: _backTimer_Elapsed LeftTime：112
+2019-01-16 10:00:30	Info	: _backTimer_Elapsed LeftTime：111
+2019-01-16 10:00:31	Info	: _backTimer_Elapsed LeftTime：110
+2019-01-16 10:00:32	Info	: _backTimer_Elapsed LeftTime：109
+2019-01-16 10:00:33	Info	: _backTimer_Elapsed LeftTime：108
+2019-01-16 10:00:34	Info	: _backTimer_Elapsed LeftTime：107
+2019-01-16 10:00:35	Info	: _backTimer_Elapsed LeftTime：106
+2019-01-16 10:00:36	Info	: _backTimer_Elapsed LeftTime：105
+2019-01-16 10:00:37	Info	: _backTimer_Elapsed LeftTime：104
+2019-01-16 10:00:38	Info	: _backTimer_Elapsed LeftTime：103
+2019-01-16 10:00:39	Info	: _backTimer_Elapsed LeftTime：102
+2019-01-16 10:00:40	Info	: _backTimer_Elapsed LeftTime：101
+2019-01-16 10:00:41	Info	: _backTimer_Elapsed LeftTime：100
+2019-01-16 10:00:42	Info	: _backTimer_Elapsed LeftTime：99
+2019-01-16 10:00:43	Info	: _backTimer_Elapsed LeftTime：98
+2019-01-16 10:00:44	Info	: _backTimer_Elapsed LeftTime：97
+2019-01-16 10:00:45	Info	: _backTimer_Elapsed LeftTime：96
+2019-01-16 10:00:46	Info	: _backTimer_Elapsed LeftTime：95
+2019-01-16 10:00:47	Info	: _backTimer_Elapsed LeftTime：94
+2019-01-16 10:00:48	Info	: _backTimer_Elapsed LeftTime：93
+2019-01-16 10:00:49	Info	: _backTimer_Elapsed LeftTime：92
+2019-01-16 10:00:50	Info	: _backTimer_Elapsed LeftTime：91
+2019-01-16 10:00:51	Info	: _backTimer_Elapsed LeftTime：90
+2019-01-16 10:00:52	Info	: _backTimer_Elapsed LeftTime：89
+2019-01-16 10:00:53	Info	: _backTimer_Elapsed LeftTime：88
+2019-01-16 10:00:54	Info	: _backTimer_Elapsed LeftTime：87
+2019-01-16 10:00:55	Info	: _backTimer_Elapsed LeftTime：86
+2019-01-16 10:00:56	Info	: _backTimer_Elapsed LeftTime：85
+2019-01-16 10:00:57	Info	: _backTimer_Elapsed LeftTime：84
+2019-01-16 10:00:58	Info	: _backTimer_Elapsed LeftTime：83
+2019-01-16 10:00:59	Info	: _backTimer_Elapsed LeftTime：82
+2019-01-16 10:01:00	Info	: _backTimer_Elapsed LeftTime：81
+2019-01-16 10:01:01	Info	: _backTimer_Elapsed LeftTime：80
+2019-01-16 10:01:02	Info	: _backTimer_Elapsed LeftTime：79
+2019-01-16 10:01:03	Info	: _backTimer_Elapsed LeftTime：78
+2019-01-16 10:01:04	Info	: _backTimer_Elapsed LeftTime：77
+2019-01-16 10:01:05	Info	: _backTimer_Elapsed LeftTime：76
+2019-01-16 10:01:06	Info	: _backTimer_Elapsed LeftTime：75
+2019-01-16 10:01:07	Info	: _backTimer_Elapsed LeftTime：74
+2019-01-16 10:01:08	Info	: _backTimer_Elapsed LeftTime：73
+2019-01-16 10:01:09	Info	: _backTimer_Elapsed LeftTime：72
+2019-01-16 10:01:10	Info	: _backTimer_Elapsed LeftTime：71
+2019-01-16 10:01:11	Info	: _backTimer_Elapsed LeftTime：70
+2019-01-16 10:01:12	Info	: _backTimer_Elapsed LeftTime：69
+2019-01-16 10:01:13	Info	: _backTimer_Elapsed LeftTime：68
+2019-01-16 10:01:14	Info	: _backTimer_Elapsed LeftTime：67
+2019-01-16 10:01:15	Info	: _backTimer_Elapsed LeftTime：66
+2019-01-16 10:01:16	Info	: _backTimer_Elapsed LeftTime：65
+2019-01-16 10:01:17	Info	: _backTimer_Elapsed LeftTime：64
+2019-01-16 10:01:18	Info	: _backTimer_Elapsed LeftTime：63
+2019-01-16 10:01:19	Info	: _backTimer_Elapsed LeftTime：62
+2019-01-16 10:01:20	Info	: _backTimer_Elapsed LeftTime：61
+2019-01-16 10:01:21	Info	: _backTimer_Elapsed LeftTime：60
+2019-01-16 10:01:22	Info	: _backTimer_Elapsed LeftTime：59
+2019-01-16 10:01:23	Info	: _backTimer_Elapsed LeftTime：58
+2019-01-16 10:01:24	Info	: _backTimer_Elapsed LeftTime：57
+2019-01-16 10:01:25	Info	: _backTimer_Elapsed LeftTime：56
+2019-01-16 10:01:26	Info	: _backTimer_Elapsed LeftTime：55
+2019-01-16 10:01:27	Info	: _backTimer_Elapsed LeftTime：54
+2019-01-16 10:01:28	Info	: _backTimer_Elapsed LeftTime：53
+2019-01-16 10:01:29	Info	: _backTimer_Elapsed LeftTime：52
+2019-01-16 10:01:30	Info	: _backTimer_Elapsed LeftTime：51
+2019-01-16 10:01:31	Info	: _backTimer_Elapsed LeftTime：50
+2019-01-16 10:01:32	Info	: _backTimer_Elapsed LeftTime：49
+2019-01-16 10:01:33	Info	: _backTimer_Elapsed LeftTime：48
+2019-01-16 10:01:34	Info	: _backTimer_Elapsed LeftTime：47
+2019-01-16 10:01:35	Info	: _backTimer_Elapsed LeftTime：46
+2019-01-16 10:01:36	Info	: _backTimer_Elapsed LeftTime：45
+2019-01-16 10:01:37	Info	: _backTimer_Elapsed LeftTime：44
+2019-01-16 10:01:38	Info	: _backTimer_Elapsed LeftTime：43
+2019-01-16 10:01:39	Info	: _backTimer_Elapsed LeftTime：42
+2019-01-16 10:01:40	Info	: _backTimer_Elapsed LeftTime：41
+2019-01-16 10:01:41	Info	: _backTimer_Elapsed LeftTime：40
+2019-01-16 10:01:42	Info	: _backTimer_Elapsed LeftTime：39
+2019-01-16 10:01:43	Info	: _backTimer_Elapsed LeftTime：38
+2019-01-16 10:01:44	Info	: _backTimer_Elapsed LeftTime：37
+2019-01-16 10:01:45	Info	: _backTimer_Elapsed LeftTime：36
+2019-01-16 10:01:46	Info	: _backTimer_Elapsed LeftTime：35
+2019-01-16 10:01:47	Info	: _backTimer_Elapsed LeftTime：34
+2019-01-16 10:01:48	Info	: _backTimer_Elapsed LeftTime：33
+2019-01-16 10:01:49	Info	: _backTimer_Elapsed LeftTime：32
+2019-01-16 10:01:50	Info	: _backTimer_Elapsed LeftTime：31
+2019-01-16 10:01:51	Info	: _backTimer_Elapsed LeftTime：30
+2019-01-16 10:01:52	Info	: _backTimer_Elapsed LeftTime：29
+2019-01-16 10:01:53	Info	: _backTimer_Elapsed LeftTime：28
+2019-01-16 10:01:54	Info	: _backTimer_Elapsed LeftTime：27
+2019-01-16 10:01:55	Info	: _backTimer_Elapsed LeftTime：26
+2019-01-16 10:01:56	Info	: _backTimer_Elapsed LeftTime：25
+2019-01-16 10:01:57	Info	: _backTimer_Elapsed LeftTime：24
+2019-01-16 10:01:58	Info	: _backTimer_Elapsed LeftTime：23
+2019-01-16 10:01:59	Info	: _backTimer_Elapsed LeftTime：22
+2019-01-16 10:02:00	Info	: _backTimer_Elapsed LeftTime：21
+2019-01-16 10:02:01	Info	: _backTimer_Elapsed LeftTime：20
+2019-01-16 10:02:02	Info	: _backTimer_Elapsed LeftTime：19
+2019-01-16 10:02:03	Info	: _backTimer_Elapsed LeftTime：18
+2019-01-16 10:02:04	Info	: _backTimer_Elapsed LeftTime：17
+2019-01-16 10:02:05	Info	: _backTimer_Elapsed LeftTime：16
+2019-01-16 10:02:06	Info	: _backTimer_Elapsed LeftTime：15
+2019-01-16 10:02:07	Info	: _backTimer_Elapsed LeftTime：14
+2019-01-16 10:02:08	Info	: _backTimer_Elapsed LeftTime：13
+2019-01-16 10:02:09	Info	: _backTimer_Elapsed LeftTime：12
+2019-01-16 10:02:10	Debug	: CallKeyBack -- StartExitProcess
+2019-01-16 10:02:10	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 10:02:10	Debug	: exit
+2019-01-16 10:02:10	Debug	: 关闭动作成功
+2019-01-16 10:02:10	Debug	: open com port success!
+2019-01-16 10:02:10	Info	: MapChoseViewModel - 倒计时:15
+2019-01-16 10:02:10	Info	: IndexViewModel - Load
+2019-01-16 10:02:10	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 10:02:10	Debug	: 释放 _raceDetailViewModel id:1
+2019-01-16 10:02:10	Debug	: 已释放 LoadComHanding
+2019-01-16 10:02:10	Debug	: R DisposeTotalHookKeyHandler LocalId:1
+2019-01-16 10:02:11	Info	: MapChoseViewModel - 倒计时:14
+2019-01-16 10:02:12	Info	: MapChoseViewModel - 倒计时:13
+2019-01-16 10:02:13	Info	: MapChoseViewModel - 倒计时:12
+2019-01-16 10:02:14	Info	: MapChoseViewModel - 倒计时:11
+2019-01-16 10:02:15	Info	: MapChoseViewModel - 倒计时:10
+2019-01-16 10:02:16	Info	: MapChoseViewModel - 倒计时:9
+2019-01-16 10:02:17	Info	: MapChoseViewModel - 倒计时:8
+2019-01-16 10:02:18	Info	: MapChoseViewModel - 倒计时:7
+2019-01-16 10:02:19	Info	: MapChoseViewModel - 倒计时:6
+2019-01-16 10:02:20	Info	: MapChoseViewModel - 倒计时:5
+2019-01-16 10:02:21	Info	: MapChoseViewModel - 倒计时:4
+2019-01-16 10:02:22	Info	: MapChoseViewModel - 倒计时:3
+2019-01-16 10:02:23	Info	: MapChoseViewModel - 倒计时:2
+2019-01-16 10:02:24	Info	: MapChoseViewModel - 倒计时:1
+2019-01-16 10:02:25	Info	: MapChoseViewModel - 倒计时结束---------- 1
+2019-01-16 10:02:25	Info	: MapChoseViewModel - 倒计时结束---------- 2
+2019-01-16 10:02:25	Debug	: delegte is cancel _3
+2019-01-16 10:02:25	Debug	: 关闭动作成功
+2019-01-16 10:02:25	Info	: MapChoseViewModel - 重启计时器
+2019-01-16 10:02:26	Info	: _backTimer_Elapsed LeftTime：11
+2019-01-16 10:02:27	Info	: _backTimer_Elapsed LeftTime：10
+2019-01-16 10:02:28	Info	: _backTimer_Elapsed LeftTime：9
+2019-01-16 10:02:29	Debug	: K5 is Press _2
+2019-01-16 10:02:29	Debug	: SelectMap:穆塔宁-芬兰
+2019-01-16 10:02:29	Debug	: IsCanChose == True || Free == 1
+2019-01-16 10:02:29	Debug	: ======================== _raceDetailViewModel != null id:1========================
+2019-01-16 10:02:29	Debug	: delegte is cancel _2
+2019-01-16 10:02:29	Info	: _backTimer_Elapsed LeftTime：8
+2019-01-16 10:02:29	Debug	: K5 is Press _1 KeyType.Enter
+2019-01-16 10:02:29	Debug	: the play button is clicked
+2019-01-16 10:02:29	Debug	: CurrentMap:穆塔宁-芬兰 LocalId:1
+2019-01-16 10:02:29	Debug	: show loading view
+2019-01-16 10:02:29	Debug	: the type is not preload
+2019-01-16 10:02:29	Debug	: 游戏启动 EnterDirtMap id:1--isReLoad:0--IsGameStop:False
+2019-01-16 10:02:29	Debug	: RaceDetailViewModel - PlayExcute LeftTime:37
+2019-01-16 10:02:29	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 10:02:30	Debug	: 已挂载LoadComHanding
+2019-01-16 10:02:31	Info	: _backTimer_Elapsed LeftTime：37
+2019-01-16 10:02:32	Info	: _backTimer_Elapsed LeftTime：36
+2019-01-16 10:02:33	Info	: _backTimer_Elapsed LeftTime：35
+2019-01-16 10:02:34	Info	: _backTimer_Elapsed LeftTime：34
+2019-01-16 10:02:35	Info	: _backTimer_Elapsed LeftTime：33
+2019-01-16 10:02:36	Info	: _backTimer_Elapsed LeftTime：32
+2019-01-16 10:02:37	Info	: _backTimer_Elapsed LeftTime：31
+2019-01-16 10:02:38	Info	: _backTimer_Elapsed LeftTime：30
+2019-01-16 10:02:39	Info	: _backTimer_Elapsed LeftTime：29
+2019-01-16 10:02:40	Info	: _backTimer_Elapsed LeftTime：28
+2019-01-16 10:02:41	Info	: _backTimer_Elapsed LeftTime：27
+2019-01-16 10:02:42	Info	: _backTimer_Elapsed LeftTime：26
+2019-01-16 10:02:43	Info	: _backTimer_Elapsed LeftTime：25
+2019-01-16 10:02:44	Info	: _backTimer_Elapsed LeftTime：24
+2019-01-16 10:02:45	Info	: _backTimer_Elapsed LeftTime：23
+2019-01-16 10:02:46	Info	: _backTimer_Elapsed LeftTime：22
+2019-01-16 10:02:47	Info	: _backTimer_Elapsed LeftTime：21
+2019-01-16 10:02:48	Info	: _backTimer_Elapsed LeftTime：20
+2019-01-16 10:02:49	Info	: _backTimer_Elapsed LeftTime：19
+2019-01-16 10:02:50	Info	: _backTimer_Elapsed LeftTime：18
+2019-01-16 10:02:51	Info	: _backTimer_Elapsed LeftTime：17
+2019-01-16 10:02:52	Info	: _backTimer_Elapsed LeftTime：16
+2019-01-16 10:02:53	Info	: _backTimer_Elapsed LeftTime：15
+2019-01-16 10:02:54	Info	: _backTimer_Elapsed LeftTime：14
+2019-01-16 10:02:55	Info	: _backTimer_Elapsed LeftTime：13
+2019-01-16 10:02:56	Info	: _backTimer_Elapsed LeftTime：12
+2019-01-16 10:02:57	Info	: _backTimer_Elapsed LeftTime：11
+2019-01-16 10:02:58	Info	: _backTimer_Elapsed LeftTime：10
+2019-01-16 10:02:59	Info	: _backTimer_Elapsed LeftTime：9
+2019-01-16 10:03:00	Info	: _backTimer_Elapsed LeftTime：8
+2019-01-16 10:03:01	Info	: _backTimer_Elapsed LeftTime：7
+2019-01-16 10:03:02	Info	: _backTimer_Elapsed LeftTime：6
+2019-01-16 10:03:03	Info	: _backTimer_Elapsed LeftTime：5
+2019-01-16 10:03:04	Info	: _backTimer_Elapsed LeftTime：4
+2019-01-16 10:03:05	Info	: _backTimer_Elapsed LeftTime：3
+2019-01-16 10:03:06	Info	: _backTimer_Elapsed LeftTime：2
+2019-01-16 10:03:07	Info	: _backTimer_Elapsed LeftTime：1
+2019-01-16 10:03:08	Info	: _backTimer_Elapsed LeftTime：0
+2019-01-16 10:03:08	Debug	: exit
+2019-01-16 10:03:08	Debug	: MapChoseViewModel - 弹密码输入窗
+2019-01-16 10:03:08	Debug	: delegte is cancel _2
+2019-01-16 10:03:08	Debug	: MapChoseViewModel - CanShowPwdWindow
+2019-01-16 10:03:08	Debug	: ViewModelHelper.Create().Main?.StopGame() --被定时器调用
+2019-01-16 10:03:08	Info	: IndexViewModel - Load
+2019-01-16 10:03:08	Info	: MapChoseViewModel - 倒计时:15
+2019-01-16 10:03:08	Debug	: delegte is cancel _3
+2019-01-16 10:03:08	Debug	: R DisposeTotalHookKeyHandler LocalId:1
+2019-01-16 10:03:08	Debug	: 释放 _raceDetailViewModel id:1
+2019-01-16 10:03:08	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 10:03:08	Debug	: 已释放 LoadComHanding
+2019-01-16 10:03:09	Info	: MapChoseViewModel - 倒计时:14
+2019-01-16 10:03:10	Info	: MapChoseViewModel - 倒计时:13
+2019-01-16 10:03:11	Info	: MapChoseViewModel - 倒计时:12
+2019-01-16 10:03:12	Info	: MapChoseViewModel - 倒计时:11
+2019-01-16 10:03:13	Info	: MapChoseViewModel - 倒计时:10
+2019-01-16 10:03:14	Info	: MapChoseViewModel - 倒计时:9
+2019-01-16 10:03:15	Info	: MapChoseViewModel - 倒计时:8
+2019-01-16 10:03:16	Info	: MapChoseViewModel - 倒计时:7
+2019-01-16 10:03:17	Info	: MapChoseViewModel - 倒计时:6
+2019-01-16 10:03:18	Info	: MapChoseViewModel - 倒计时:5
+2019-01-16 10:03:19	Info	: MapChoseViewModel - 倒计时:4
+2019-01-16 10:03:20	Info	: MapChoseViewModel - 倒计时:3
+2019-01-16 10:03:21	Info	: MapChoseViewModel - 倒计时:2
+2019-01-16 10:03:22	Info	: MapChoseViewModel - 倒计时:1
+2019-01-16 10:03:23	Info	: MapChoseViewModel - 倒计时结束---------- 1
+2019-01-16 10:03:23	Debug	: delegte is cancel _3
+2019-01-16 10:03:23	Info	: MapChoseViewModel - 重启计时器
+2019-01-16 10:03:23	Debug	: delegte is cancel _2
+2019-01-16 10:03:23	Debug	: MapChoseViewModel - 弹密码输入窗
+2019-01-16 10:03:23	Info	: MapChoseViewModel - 倒计时结束---------- 2
+2019-01-16 10:03:30	Debug	: 输入密码后 LeftTime:180
+2019-01-16 10:03:30	Debug	: delegte is cancel _3
+2019-01-16 10:03:32	Debug	: K5 is Press _2
+2019-01-16 10:03:32	Debug	: SelectMap:霍顿短道-冶炼厂
+2019-01-16 10:03:32	Debug	: IsCanChose == True || Free == 1
+2019-01-16 10:03:32	Debug	: delegte is cancel _2
+2019-01-16 10:03:32	Debug	: ======================== _raceDetailViewModel != null id:1========================
+2019-01-16 10:03:33	Debug	: K5 is Press _1 KeyType.Enter
+2019-01-16 10:03:33	Debug	: the play button is clicked
+2019-01-16 10:03:33	Debug	: CurrentMap:霍顿短道-冶炼厂 LocalId:1
+2019-01-16 10:03:33	Debug	: the type is not preload
+2019-01-16 10:03:33	Debug	: 游戏启动 EnterDirtMap id:2--isReLoad:0--IsGameStop:False
+2019-01-16 10:03:33	Debug	: 已挂载LoadComHanding
+2019-01-16 10:03:33	Debug	: RaceDetailViewModel - PlayExcute LeftTime:210
+2019-01-16 10:03:33	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 10:03:33	Debug	: show loading view
+2019-01-16 10:03:34	Info	: _backTimer_Elapsed LeftTime：210
+2019-01-16 10:03:35	Info	: _backTimer_Elapsed LeftTime：209
+2019-01-16 10:03:36	Info	: _backTimer_Elapsed LeftTime：208
+2019-01-16 10:03:37	Info	: _backTimer_Elapsed LeftTime：207
+2019-01-16 10:03:38	Info	: _backTimer_Elapsed LeftTime：206
+2019-01-16 10:03:39	Info	: _backTimer_Elapsed LeftTime：205
+2019-01-16 10:03:40	Info	: _backTimer_Elapsed LeftTime：204
+2019-01-16 10:03:40	Debug	: pre load game complete
+2019-01-16 10:03:40	Debug	: pre load game complete
+2019-01-16 10:03:41	Info	: _backTimer_Elapsed LeftTime：203
+2019-01-16 10:03:42	Info	: _backTimer_Elapsed LeftTime：202
+2019-01-16 10:03:43	Info	: _backTimer_Elapsed LeftTime：201
+2019-01-16 10:03:44	Info	: _backTimer_Elapsed LeftTime：200
+2019-01-16 10:03:44	Debug	: map load complete id:1
+2019-01-16 10:03:44	Debug	: 打开动作成功
+2019-01-16 10:03:44	Debug	: MiniModelViewModel LeftTime:199
+2019-01-16 10:03:44	Debug	: enter mini model id:1
+2019-01-16 10:03:44	Debug	: 已调用OpenMoveMent
+2019-01-16 10:03:44	Debug	: MiniModelViewModel Load1
+2019-01-16 10:03:44	Debug	: MiniModelViewModel Load2
+2019-01-16 10:03:44	Debug	: MiniModelViewModel Load3
+2019-01-16 10:03:45	Info	: _backTimer_Elapsed LeftTime：199
+2019-01-16 10:03:46	Info	: _backTimer_Elapsed LeftTime：198
+2019-01-16 10:03:47	Info	: _backTimer_Elapsed LeftTime：197
+2019-01-16 10:03:48	Debug	: CallKeyBack -- StartExitProcess
+2019-01-16 10:03:48	Debug	: exit
+2019-01-16 10:03:48	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 10:03:48	Debug	: 关闭动作成功
+2019-01-16 10:03:48	Debug	: open com port success!
+2019-01-16 10:03:48	Info	: MapChoseViewModel - 倒计时:15
+2019-01-16 10:03:48	Info	: IndexViewModel - Load
+2019-01-16 10:03:48	Debug	: R delegte is cancel _1 LocalId1
+2019-01-16 10:03:48	Debug	: 释放 _raceDetailViewModel id:1
+2019-01-16 10:03:48	Debug	: R DisposeTotalHookKeyHandler LocalId:1
+2019-01-16 10:03:48	Debug	: 已释放 LoadComHanding
+2019-01-16 10:03:49	Info	: MapChoseViewModel - 倒计时:14
+2019-01-16 10:03:50	Info	: MapChoseViewModel - 倒计时:13
+2019-01-16 10:03:51	Info	: MapChoseViewModel - 倒计时:12
+2019-01-16 10:03:52	Info	: MapChoseViewModel - 倒计时:11
+2019-01-16 10:03:53	Info	: MapChoseViewModel - 倒计时:10
+2019-01-16 10:03:54	Info	: MapChoseViewModel - 倒计时:9
+2019-01-16 10:03:55	Info	: MapChoseViewModel - 倒计时:8
+2019-01-16 10:03:56	Info	: MapChoseViewModel - 倒计时:7
+2019-01-16 10:03:57	Info	: MapChoseViewModel - 倒计时:6
+2019-01-16 10:03:58	Info	: MapChoseViewModel - 倒计时:5
+2019-01-16 10:03:59	Info	: MapChoseViewModel - 倒计时:4
+2019-01-16 10:04:00	Info	: MapChoseViewModel - 倒计时:3
+2019-01-16 10:04:01	Info	: MapChoseViewModel - 倒计时:2
+2019-01-16 10:04:02	Info	: MapChoseViewModel - 倒计时:1
+2019-01-16 10:04:03	Info	: MapChoseViewModel - 倒计时结束---------- 1
+2019-01-16 10:04:03	Debug	: 关闭动作成功
+2019-01-16 10:04:03	Info	: MapChoseViewModel - 重启计时器
+2019-01-16 10:04:03	Debug	: delegte is cancel _3
+2019-01-16 10:04:03	Info	: MapChoseViewModel - 倒计时结束---------- 2
