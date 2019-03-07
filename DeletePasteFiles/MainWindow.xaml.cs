@@ -58,6 +58,7 @@ namespace DeletePasteFiles
                         {
                             DirectoryInfo subdir = new DirectoryInfo(i.FullName);
                             subdir.Delete(true);          //删除子目录和文件
+                            ShowValue();
                         }
                     }
                     else
@@ -69,10 +70,7 @@ namespace DeletePasteFiles
                         else
                         {
                             File.Delete(i.FullName);      //删除指定文件
-                            _nums++;
-                            gunBar.Value = _nums;
-                            valueText.Text = (_nums / (float)_allNums *100.0).ToString("#0.00") +"%";
-                            DispatcherHelper.DoEvents();
+                            ShowValue();
                         }
                     }
                 }
@@ -81,6 +79,14 @@ namespace DeletePasteFiles
             {
                 throw;
             }
+        }
+
+        private void ShowValue()
+        {
+            _nums++;
+            gunBar.Value = _nums;
+            valueText.Text = (_nums / (float)_allNums * 100.0).ToString("#0.00") + "%";
+            DispatcherHelper.DoEvents();
         }
 
         
@@ -98,6 +104,7 @@ namespace DeletePasteFiles
                             if (!Directory.Exists(destPath + "\\" + i.Name))
                             {
                                 Directory.CreateDirectory(destPath + "\\" + i.Name);   //目标目录下不存在此文件夹即创建子文件夹
+                                ShowValue();
                             }
                             CopyDirectoryEx(i.FullName, destPath + "\\" + i.Name);    //递归调用复制子文件夹
                         }
@@ -109,11 +116,7 @@ namespace DeletePasteFiles
                             }
 
                             File.Copy(i.FullName, destPath + "\\" + i.Name, true);      //不是文件夹即复制文件，true表示可以覆盖同名文件
-                            _nums++;
-                            gunBar.Value = _nums;
-                            valueText.Text = (_nums / (float)_allNums * 100.0).ToString("#0.00") +"%";
-                            DispatcherHelper.DoEvents();
-                            //Thread.Sleep(100);
+                            ShowValue();
                         }
                     }
                 }));               
@@ -215,10 +218,12 @@ namespace DeletePasteFiles
 
                     HuiGun();
 
-                    Thread.Sleep(200);
-                    DispatcherHelper.DoEvents();
                     gunBar.Value = _allNums;
                     valueText.Text = "100%";
+                    DispatcherHelper.DoEvents();
+                    Thread.Sleep(200);
+                    
+
                     CallKTV();
                 }));
             }).Start();
