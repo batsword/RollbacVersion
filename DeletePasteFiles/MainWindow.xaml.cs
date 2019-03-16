@@ -57,13 +57,18 @@ namespace DeletePasteFiles
                         if (i.Name != _foldName)
                         {
                             DirectoryInfo subdir = new DirectoryInfo(i.FullName);
+
+                            int foldFilesNum = GetFilesCount(subdir);
+                            _nums += foldFilesNum-1; //删除文件时特殊 需要统计子目录下文件数好显示到进度条
+
                             subdir.Delete(true);          //删除子目录和文件
                             ShowValue();
                         }
                     }
                     else
                     {
-                        if( (i.Name == _exeName)||(i.Name == "DeletePasteFiles.vshost.exe") || (i.Name == "DeletePasteFiles.pdb"))
+                        if( (i.Name == _exeName)||(i.Name == "DeletePasteFiles.vshost.exe") || (i.Name == "DeletePasteFiles.pdb")||
+                            (i.Name == _callProcess) ||(i.Name == "NDKTV.pdb"))
                         {
 
                         }
@@ -77,7 +82,7 @@ namespace DeletePasteFiles
             }
             catch (Exception ex)
             {
-                throw;
+                //throw;
             }
         }
 
@@ -104,9 +109,10 @@ namespace DeletePasteFiles
                             if (!Directory.Exists(destPath + "\\" + i.Name))
                             {
                                 Directory.CreateDirectory(destPath + "\\" + i.Name);   //目标目录下不存在此文件夹即创建子文件夹
-                                ShowValue();
+                                
                             }
                             CopyDirectoryEx(i.FullName, destPath + "\\" + i.Name);    //递归调用复制子文件夹
+                            //ShowValue();
                         }
                         else
                         {
@@ -195,16 +201,20 @@ namespace DeletePasteFiles
             string destPath = Environment.CurrentDirectory;
 
             Delete(destPath);
+
+            //this.Title = "已删除" + _nums.ToString();
+            //MessageBox.Show("暂停");
             //new Thread(() => {
             CopyDirectoryEx(srcPath, destPath);
+            //this.Title = "已拷贝" + _nums.ToString();
             //}).Start();
         }
-
+        Thread processThread =null;
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
 
-            new Thread(()=> {
-                Dispatcher.Invoke(new Action(()=> {
+            processThread = new Thread(() => {
+                Dispatcher.Invoke(new Action(() => {
                     for (int i = 0; i < 30; i++)
                     {
                         Thread.Sleep(100);
@@ -212,7 +222,8 @@ namespace DeletePasteFiles
                     }
 
                     //GetAllFilesNum(Environment.CurrentDirectory + @"\" + _foldName) +
-                    _allNums =  GetAllFilesNum(Environment.CurrentDirectory);
+                    _allNums = GetAllFilesNum(Environment.CurrentDirectory);
+                    
                     gunBar.Maximum = _allNums;
                     gunBar.Value = 0;
 
@@ -222,11 +233,12 @@ namespace DeletePasteFiles
                     valueText.Text = "100%";
                     DispatcherHelper.DoEvents();
                     Thread.Sleep(200);
-                    
+
 
                     CallKTV();
                 }));
-            }).Start();
+            });
+            processThread.Start();
             
         }
 
@@ -241,6 +253,17 @@ namespace DeletePasteFiles
             {
                 MessageBox.Show("启动Ktv出现程序异常,请检查ktv文件名是否:"+ _callProcess);
             }
+        }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            if ((processThread != null))
+            {
+                processThread.Abort();
+                
+            }
+            Application.Current.Shutdown();
+            Environment.Exit(0);// 可以立即中断程序执行并退出
         }
     }
 
